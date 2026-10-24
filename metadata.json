@@ -1,0 +1,6 @@
+{
+  "name": "Ashen Crown",
+  "description": "A tactical turn-based RPG with isometric pixel combat, initiative timeline, and persistent progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
